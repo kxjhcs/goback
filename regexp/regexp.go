@@ -11,7 +11,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/h2so5/goback/regexp/syntax"
+	"github.com/kxjhcs/goback/regexp/syntax"
 )
 
 // Regexp is the representation of a compiled regular expression.
